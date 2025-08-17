@@ -27,7 +27,7 @@ Elle utilise une interface graphique basée sur `eframe` et `egui`, et intègre 
 
 ## Installation / Utilisation
 
-1. Téléchargez la dernière version du binaire depuis la [Release](https://github.com/Trouve-Me/JournalIntime/releases).
+1. Téléchargez la dernière version du binaire depuis la [Release](https://github.com/Trouve-Me/JournalIntime-bin/releases).
 2. Décompressez le fichier si nécessaire.
 3. Lancez le binaire :
 
